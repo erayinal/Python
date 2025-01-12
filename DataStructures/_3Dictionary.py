@@ -35,3 +35,5 @@ dict["ssd"] = "It means 'Solid State Driver'"
 
 myTuple = ("P", "J")
 dict2 = {myTuple : "Python Java"}
+
+
