@@ -3,5 +3,3 @@
 # Geri kalanı ise modülleme ile geçer
 
 
-
-
