@@ -1,5 +1,5 @@
 
-# Listeler içerisine birden fazla türden değişken alabiliyordu, sıralıydı ve eğiştirilebilirdi
+# Listeler içerisine birden fazla türden değişken alabiliyordu, sıralıydı ve değiştirilebilirdi
 # Tuple'ın en önemli farklılığı DEĞİŞTİRİLEMEZ olmasıdır
 # Bazı durumlarda veri yapıları sabir dursun ve ben değişip değişmeyeceğini endişe etmiyeyim tarzında istemler karşısında kullanılır
 

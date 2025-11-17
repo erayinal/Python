@@ -1,8 +1,11 @@
-
+# Sıralı
+# Değiştirilebilir
+# Birden fazla türde değişken
 
  #Listeler:
-     # İki tür vardır birincisi []
-     #İkincisi ise list()
+     # İki tür vardır birincisi: []
+     #İkincisi ise: list()
+
 
     
 grades = [20, 30, 10, "AA", "BB"]
@@ -41,7 +44,7 @@ grades[0:3] = 5, 15, 20  #Bu şekilde birden fazla liste elemanının değiştir
 grades.count(10)    #Liste içerisinde kaç tane 10 olduğunun sayısını verir
 spareList = grades.copy()
 grades.extend(spareList)    # spareList'in elemanlarını grades'e ekler
-grades.index("AA")    #10'un hangi indexte olduğunu bize verir
+grades.index("AA")    #AA'nın hangi indexte olduğunu bize verir
 grades.reverse()    #Bu method ile listeyi tersten verir
 #grades.sort()   #Listeyi sortlar ama listede hem integer hem de string olduğu için bu satır hata verir
 grades.clear()

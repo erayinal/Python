@@ -7,7 +7,7 @@ str2 = str.strip("e")   #Başında veya sonunda e harfi varsa kaldırır
 # int1 = input()  # input alır 
 
 
-# print("eray", "inal", "23", sep="_")  #İfadeler arasındaki seperator'ı belirler
+# print("eray", "inal", "23", sep="_")  #sep, ifadeler arasındaki seperator'ı belirler
 
 
 ifade = "geleceği yazıyoruz"
